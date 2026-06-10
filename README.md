@@ -1,14 +1,11 @@
-<h1>Hello, I'm Walt
+<h1>Hello, I'm Walt</h1>
   
-<h1>Cybersecurity enthusiast
+<h2>Cybersecurity enthusiast</h2>
 
-<h2> Cybersecurity 
-  Projects:</h2>
+<h2> Cybersecurity Projects:</h2>
 
-- <b> Scripts </b>
-
-  - Simple python script Enumerate linux users (https://github.com/walterdrummondjr/Linux-User-Enumeration-tool)
-
+- <b>Scripts</b>
+  - [Simple python script to enumerate linux users](https://github.com/walterdrummondjr/Linux-User-Enumeration-tool)
 
 
 
