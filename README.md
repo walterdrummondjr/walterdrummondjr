@@ -6,7 +6,8 @@
   Projects:</h2>
 
 - <b> Scripts </b>
-  -
+
+  - [Simple python script Enumerate linux users] (https://github.com/walterdrummondjr/Linux-User-Enumeration-tool)
 
 
 
