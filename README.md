@@ -1,14 +1,28 @@
-<h1>Hello, I'm Walt</h1>
+**Hello, I'm Walt**
   
 <h2>Cybersecurity enthusiast</h2>
+<br><br>
 
 <h2> Cybersecurity Projects:</h2>
+<br><br>
 
 - <b>Scripts</b>
-  - [Simple python script to enumerate linux users](https://github.com/walterdrummondjr/Linux-User-Enumeration-tool)
+    - [Simple python script to enumerate linux users](https://github.com/walterdrummondjr/Linux-User-Enumeration-tool)
+<br><br>
 
 - <b>Labs</b>
-  
+<br><br>
+
+     - <b>Penetration testing labs:</b>
+    
+     - [Linux-Privilege-Esculation-Sudo-misconfiguration-lab](https://github.com/walterdrummondjr/Linux-Privilege-Esculation-Sudo-misconfiguration-lab)
+  <br><br>
+
+
+
+
+
+
 
 <h2> Connect with me:</h2>
 
