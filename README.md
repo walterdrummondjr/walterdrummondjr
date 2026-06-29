@@ -13,7 +13,7 @@
 - <b>Labs</b>
 <br><br>
 
-     - <b>Penetration testing labs:</b>
+- <b>Penetration testing labs:</b>
     
      - [Linux-Privilege-Esculation-Sudo-misconfiguration-lab](https://github.com/walterdrummondjr/Linux-Privilege-Esculation-Sudo-misconfiguration-lab)
   <br><br>
